@@ -1,2 +1,1 @@
-Practice 
-
+This is my script for assignment 0
